@@ -31,11 +31,11 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "abcd-1234.ngrok-free.app",  # replace with your actual ngrok domain, no https://
+    "reviving-credible-obsolete.ngrok-free.dev",  
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://abcd-1234.ngrok-free.app",  # this one DOES need the https://
+    "https://reviving-credible-obsolete.ngrok-free.dev",
 ]
 
 # Application definition
